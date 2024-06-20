@@ -1,0 +1,110 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+
+}
+
+body {
+    background-color: #B5E4FF;
+}
+
+#topo {
+    width: 100%;
+    height: 110px;
+    padding: 30px;
+    gap: 10px;
+}
+
+#pesquisa {
+    width: 620px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    text-align: left;
+    font-size:20px;
+   
+}
+#opcoes {
+    background-color: #7CD0FF;
+    width:100%;
+    height:100px;
+    padding:32.5px;
+    display:flex;
+    gap:4%;
+   
+ 
+
+
+ 
+}
+
+.escolha {
+    width: 200px;
+    height: 35px;
+    background: white;
+    border: none;
+    border-radius: 10px;
+   
+}
+
+.navbar-brand {
+    color:black;
+}
+#logo {
+    margin-left: 41%;
+}
+
+#mapa {
+    width: 100%;
+    height: 700px;
+}
+
+#mapa2 {
+    width: 100%;
+    height: 700px;
+   
+    display: block;
+    position:absolute
+}
+
+
+#descricao {
+    width: 450px;
+    height: 700px;
+    background-color: white;
+
+    position: absolute;
+    z-index: 1;
+}
+
+ul {
+    list-style-type: none;
+    font-size:20px;
+       
+}
+
+
+#main {
+    position: relative;
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+}
+p{
+    font-size:23px;
+   margin:10px;
+}
+
