@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\home\\descricao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\home\\descricao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|c:\\users\\2ds\\downloads\\batebrisa - gabriela e isa\\batebrisadesktop\\batebrisa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D0F2C7-DD5E-48C0-BBC2-FE28AC6506C4}|BateBrisa\\BateBrisa.csproj|solutionrelative:batebrisa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T23:34:53.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T23:34:52.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BateBrisa\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BateBrisa\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:34:44.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Program.cs",
+              "RelativeDocumentMoniker": "BateBrisa\\Program.cs",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Program.cs",
+              "RelativeToolTip": "BateBrisa\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:34:40.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T23:34:35.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T23:34:33.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "descricao.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Home\\descricao.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\Home\\descricao.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Home\\descricao.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\Home\\descricao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T22:54:27.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BateBrisa\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BateBrisa\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwCIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:35:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BateBrisa\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T23:35:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T23:34:30.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T20:05:01.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BateBrisa\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BateBrisa\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T22:48:10.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BateBrisa\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2ds\\Downloads\\BateBrisa - Gabriela e Isa\\BateBrisaDesktop\\BateBrisa\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BateBrisa\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T22:34:31.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
